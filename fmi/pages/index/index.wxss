@@ -1,0 +1,107 @@
+.bg {
+  background: #ffba1e;
+  height: 50px;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav {
+  width: 80%;
+  height: 40px;
+}
+
+.opr {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffba1e;
+  background: #fff;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.add {
+  width: 30%;
+  height: 50px;
+  line-height: 50px;
+  text-align: right;
+  margin-right: 20px;
+  font-size: 50px;
+}
+
+.scroll-view-H {
+  margin-left: 10px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.bormal {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+.select {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.line{
+  height: 10px;
+  background: #f2f2f2;
+}
+.item{
+  margin: 10px
+}
+.head{
+  display: flex;
+  flex-direction: row;
+  height: 77px;
+  align-items: center;
+}
+.title{
+  width: 60%;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.hot{
+  text-align: right;
+  width: 30%
+}
+.content{
+   padding: 10px;
+   line-height: 25px;
+}
+.sta{
+  padding: 10px;
+  color: #999;
+  font-size: 16px;
+}
+.icon{
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.icon view{
+  margin: 0 auto;
+  width: 25%
+}
+.last{
+  text-align: right;
+}
+.seleion{
+  text-align: center;
+}

@@ -1,0 +1,62 @@
+<view class="line"></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='../../images/icon/head.jpg' style='width:45px;height:45px'></image>
+    </view>
+    <view class='title'>
+      东临天下
+    </view>
+  </view>
+  <view class='section'>
+    <video style='width:320px;' id='mYVideo' src='http://video19.ifeng.com/video09/2017/12/21/16646896-102-9987625-150436.mp4?vid=ebaac8b5-36b8-4f58-af86-30085a80047a&uid=1552894192715_z43pfv3295&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E8%BF%99%E4%B8%80%E5%9C%BA%E6%81%8B%E7%88%B1&cat=105-10057&ptype=105&platform=pc&sourceType=h5&dt=1513839823000&gid=cWsRgWpuxv-4&sign=2a2245335ec346930d493d37dd7a02f8&tm=1556636696576&vkey=CG17Sut9dZzk0VrkLdgUwUVlNPQaWL2rcURZvajwgVrR0cnP5Ov2Prep3%2B%2B6IDKJIRllkiDHtgVHIfQzAvU%2BkbfqExuvJNy8l9Er5MUPxZhavbMWUrfyuFYRt59sGZTYYqfmPTo%2BMXnf7lAwQoDvL3AQLWsY8QkVVhvgM4kpb6kc5aW%2FAwwm1o56ZnQWEqzQsXC5ijrb9mojSx7U3%2BsUbWrKaDa4iJ44RMIjmNGY2Aphdd8XPEzuWI9%2Fxgmq8Dw%2B99HvipYjKJl%2FNM2OagNhwn6Ijfh%2FBgQvzgSaCGEsu5ixXy%2BbWh8OcfCm4fxk8pq9'></video>
+  </view>
+  <view class='sta'>
+    好笑9362 · 评论320 · 分享136
+  </view>
+  <view class='icon'>
+    <view>
+      <image src='../../images/icon/xiao.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/ku.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/pinglun.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/fenxiang.jpg' style='width:23px;height:23px'></image>
+    </view>
+  </view>
+</view>
+<view class="line"></view>
+<view class='item'>
+  <view class='head'>
+    <view>
+      <image src='../../images/icon/head.jpg' style='width:45px;height:45px'></image>
+    </view>
+    <view class='title'>
+      东临天下
+    </view>
+  </view>
+  <view class='section'>
+    <video style='width:320px;' id='mYVideo' src='http://video19.ifeng.com/video09/2017/12/21/16646896-102-9987625-150436.mp4?vid=ebaac8b5-36b8-4f58-af86-30085a80047a&uid=1552894192715_z43pfv3295&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E8%BF%99%E4%B8%80%E5%9C%BA%E6%81%8B%E7%88%B1&cat=105-10057&ptype=105&platform=pc&sourceType=h5&dt=1513839823000&gid=cWsRgWpuxv-4&sign=2a2245335ec346930d493d37dd7a02f8&tm=1556636696576&vkey=CG17Sut9dZzk0VrkLdgUwUVlNPQaWL2rcURZvajwgVrR0cnP5Ov2Prep3%2B%2B6IDKJIRllkiDHtgVHIfQzAvU%2BkbfqExuvJNy8l9Er5MUPxZhavbMWUrfyuFYRt59sGZTYYqfmPTo%2BMXnf7lAwQoDvL3AQLWsY8QkVVhvgM4kpb6kc5aW%2FAwwm1o56ZnQWEqzQsXC5ijrb9mojSx7U3%2BsUbWrKaDa4iJ44RMIjmNGY2Aphdd8XPEzuWI9%2Fxgmq8Dw%2B99HvipYjKJl%2FNM2OagNhwn6Ijfh%2FBgQvzgSaCGEsu5ixXy%2BbWh8OcfCm4fxk8pq9'></video>
+  </view>
+  <view class='sta'>
+    好笑9362 · 评论320 · 分享136
+  </view>
+  <view class='icon'>
+    <view>
+      <image src='../../images/icon/xiao.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/ku.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/pinglun.jpg' style='width:23px;height:23px'></image>
+    </view>
+    <view>
+      <image src='../../images/icon/fenxiang.jpg' style='width:23px;height:23px'></image>
+    </view>
+  </view>
+</view>
