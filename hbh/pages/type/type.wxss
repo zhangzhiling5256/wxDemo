@@ -1,0 +1,35 @@
+.content{
+   font-family: "Microsoft YaHei";
+   background: #f0f0f0
+}
+.line{
+  height: 10px;
+}
+.item{
+   border: 1px solid #ccc;
+   width: 90%;
+   margin:  0 auto;
+   background: #fff;
+   padding: 10px;
+   border-radius: 5px
+}
+.hr{
+  height: 1px;
+  background: #ccc;
+  opacity: .2;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navs{
+  display: flex;
+  flex-flow: wrap;
+  text-align: center;
+  font-size: 13px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+.nav{
+  margin: 0 auto;
+  width: 70px;
+  padding-bottom: 10px;
+}

@@ -1,0 +1,156 @@
+<view class="content">
+  <view class='line'></view>
+  <view class='item'>
+    <view class='title'>玩转婚博会</view>
+    <view class='hr'></view>
+    <view class='navs'>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/dxy.jpg' style='width:38px;height:38px'></image>
+          <view>订喜宴</view>
+        </view>
+      </view>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/phz.jpg' style='width:38px;height:38px'></image>
+          <view>拍婚照</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/zhq.jpg' style='width:38px;height:38px'></image>
+          <view>找婚庆</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/dhj.jpg' style='width:38px;height:38px'></image>
+          <view>订婚戒</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/xhs.jpg' style='width:38px;height:38px'></image>
+          <view>选婚纱</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/thp.jpg' style='width:38px;height:38px'></image>
+          <view>淘婚品</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/dmy.jpg' style='width:38px;height:38px'></image>
+          <view>度蜜月</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/zhc.jpg' style='width:38px;height:38px'></image>
+          <view>租婚车</view>
+        </view>
+      </view>
+
+    </view>
+  </view>
+
+  <view class='line'></view>
+  <view class='item'>
+    <view class='title'>特色分类</view>
+    <view class='hr'></view>
+    <view class='navs'>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/pxz.jpg' style='width:38px;height:38px'></image>
+          <view>拍写真</view>
+        </view>
+      </view>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/mxn.jpg' style='width:38px;height:38px'></image>
+          <view>美新娘</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/zxj.jpg' style='width:38px;height:38px'></image>
+          <view>装新家</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/yyt.jpg' style='width:38px;height:38px'></image>
+          <view>孕婴童</view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class='line'></view>
+  <view class='item'>
+    <view class='title'>我的婚博会</view>
+    <view class='hr'></view>
+    <view class='navs'>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/xjj.jpg' style='width:38px;height:38px'></image>
+          <view>现金卷</view>
+        </view>
+      </view>
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/yqh.jpg' style='width:38px;height:38px'></image>
+          <view>邀请函</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/qdl.jpg' style='width:38px;height:38px'></image>
+          <view>签到礼</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/dhl.jpg' style='width:38px;height:38px'></image>
+          <view>兑好礼</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/wdsq.jpg' style='width:38px;height:38px'></image>
+          <view>我的社区</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/yy.jpg' style='width:38px;height:38px'></image>
+          <view>预约到婚博会</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+        <view>
+          <image src='../../images/type/tj.jpg' style='width:38px;height:38px'></image>
+          <view>推荐好友送现金</view>
+        </view>
+      </view>
+
+      <view class='nav'>
+      </view>
+    </view>
+  </view>
+</view>
