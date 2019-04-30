@@ -1,0 +1,54 @@
+<view class='date'>
+   <view>前一天</view>
+   <view>{{date}}</view>
+   <view>后一天</view>
+</view>
+<!--火车票列表设计 -->
+
+<view class='content' style='height:{{winHeight}}px'>
+<block wx:for="{{trainList}}">
+  <view class='bg'>
+    <view class='item'>
+      <view class='wrApper left'>
+        <view class='normal'>{{item.station}}</view>
+        <view class='blue'>{{item.starttime}}</view>
+      </view>
+       <view class='wrApper center'>
+        <view class='normal'>{{item.trainno}}</view>
+        <view class='line'></view>
+        <view class='blue'>{{item.costtime}}</view>
+      </view>
+       <view class='wrApper right'>
+        <view class='normal'>{{item.terminalstation}}</view>
+        <view class='normal'>{{item.endtime}}</view>
+      </view>
+       <view class='wrApper right'>
+        <view class='blue'>￥209起</view>
+        <view class='blue'>可抢票</view>
+      </view>
+    </view>
+    <view class='hr'></view>
+    <view class='seat'>
+     <view class='yes'>一等座:10张 <text>(抢)</text></view>
+     <view class='no'>二等座:0张 <text>(抢)</text></view>
+    </view>
+  </view>
+</block>
+<view class='bottomNav'>
+ <view id='0' class='{{currentTab==0?"selected":"common"}}' bindtap='switchNav'>
+ 筛选
+ </view>
+ <view style='color:#fff'>|</view>
+ <view id='1' class='{{currentTab==1?"selected":"common"}}' bindtap='switchNav'>
+ 出发时间
+ </view>
+ <view style='color:#fff'>|</view>
+ <view id='2' class='{{currentTab==2?"selected":"common"}}' bindtap='switchNav'>
+ 旅行时间
+ </view>
+ <view style='color:#fff'>|</view>
+ <view id='3' class='{{currentTab==3?"selected":"common"}}' bindtap='switchNav'>
+ 显示价格
+ </view>
+</view>
+</view>
